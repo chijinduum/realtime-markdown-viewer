@@ -1,9 +1,9 @@
-# Realtime Narkdown Viewer
+# Realtime NMarkdown Viewer
 
 This is an website that allows the user to view raw markdown on the leftside and the rendered HTML markup on the rightside. 
 It will allow people to work on the same markdown simultaneously via a shared URL.
 
-##How does it work?
+## How does it work?
 You can type anything after the slash in "https://git.heroku.com/damp-sea-10190.git" and just start typing. (I didn't change the name of the random URL Heroku gave me)
 The URL is down at the moment but I will look to change this later. 
 
