@@ -1,4 +1,4 @@
-# Realtime NMarkdown Viewer
+# Realtime Markdown Viewer
 
 This is an website that allows the user to view raw markdown on the leftside and the rendered HTML markup on the rightside. 
 It will allow people to work on the same markdown simultaneously via a shared URL.
@@ -15,3 +15,6 @@ The website was built using the following:
 - ShareJS - To allow realtime editing of the textbox
 - Redis - Database to store markdown documents
 - Twitter Bootstrap - aesthetics.
+
+
+Credit to "https://github.com/sifxtreme", whose work I referenced for building this website.
